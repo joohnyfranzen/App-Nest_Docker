@@ -1,7 +1,7 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
   <p align="center">
-  <a href="https://www.docker.com/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw3OC0wLg4OHnJVAtRgQ6tnLpSRk9VnhxSw&usqp=CAU" width="200" alt="Nest Logo" /></a>
+  <a href="https://www.docker.com/" target="blank"><img src="https://www.docker.com/wp-content/uploads/2022/06/Docker_Atomist_Logo_.png" width="200" alt="Nest Logo" /></a>
 </p>
 </p>
 
